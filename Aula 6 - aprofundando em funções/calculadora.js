@@ -1,4 +1,4 @@
-/* // criando uma calculadora
+ // criando uma calculadora
 function calculadora() {
 
     // definindo as operações e pegando valor de entrada do usuário
@@ -76,9 +76,9 @@ function calculadora() {
                 }
             }
         }
-    } */
+    } 
 
-    /* // escolhendo operação
+     // escolhendo operação
     // usand if && else
     if (operacao == 1) {
         soma();
@@ -92,9 +92,9 @@ function calculadora() {
         divisaoInteira();
     } else if (operacao == 6) {
         potenciacao();
-    } */
+    } 
 
-/*     // usando switch case
+    // usando switch case
     switch (operacao) {
         case 1:
             soma();
@@ -117,4 +117,4 @@ function calculadora() {
     }
 }
 
-calculadora(); */
+calculadora(); 
