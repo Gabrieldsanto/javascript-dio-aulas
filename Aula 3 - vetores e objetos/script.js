@@ -1,9 +1,10 @@
 // o que são vetores ou arrays
 
-/* // como declarar um array
+ // como declarar um array
+
 let array = ['string', 1, true];
 // deve ser declarado entre colchetes "[]";
-console.log(array); */
+console.log(array); 
 
 // como um array pode guardar difentes valores inclusive outros arrays
 //let array = ['string', 1, true, ['array1'], ['array2'], ['array3'], ['array4']];

@@ -1,4 +1,4 @@
-       /*  // tipos primitivos
+        // tipos primitivos
         // boolean
         var boolean = false;
         console.log(`A variável ${boolean} tem o tipo ${typeof(boolean)}`);
@@ -18,6 +18,7 @@
 
         // como declarar
 
+        /*
         var; // variável global ou local - valor inicial nulo
 
         let; // variavel local de bloco - valor inicial nulo

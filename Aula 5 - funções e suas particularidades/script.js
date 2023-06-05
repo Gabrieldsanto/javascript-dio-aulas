@@ -2,12 +2,12 @@
 
 // como declarar
 // deve ser declarada usando a palavra function seguida de "()" e "{}"
-/* function funcao() {
+function funcao() {
     console.log('mensagem de uma função');
 }
 
 // chamando a função
-funcao(); */
+funcao(); 
 
 /* 
 // função com parâmetros
